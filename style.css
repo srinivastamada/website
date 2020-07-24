@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Comfortaa:400,700|Fredoka+One|Nunito:400,800,900|Poiret+One|Quicksand:400,500,700';
+
+
+html,
+body {
+  font-family: 'comfortaa', sans-serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+h1{
+text-align: center;
+margin-top:30px
+}
